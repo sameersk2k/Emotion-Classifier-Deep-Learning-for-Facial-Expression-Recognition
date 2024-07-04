@@ -114,9 +114,11 @@ This project implements an image classification model using TensorFlow, designed
   - Testing
     Testing the model on new images assesses its ability to make accurate predictions on unseen data, providing practical insights into real performance.
     <img width="665" alt="Screenshot 2023-11-25 at 11 56 27 PM" src="https://github.com/sameersk2k/Emotion-Classifier-Deep-Learning-for-Facial-Expression-Recognition/assets/115322069/dae7f98a-3c8e-4814-b68f-80fd2e380901">
+
     The output was:
     array([[0.03455482]], dtype=float32). It means it was classified as Happy(closer to Zero).
     
     <img width="428" alt="Screenshot 2023-11-25 at 11 56 46 PM" src="https://github.com/sameersk2k/Emotion-Classifier-Deep-Learning-for-Facial-Expression-Recognition/assets/115322069/017281e4-3259-413a-9c04-52cb36e0bc1b">
+    
     The output was:
     array([[0.999627]], dtype=float32) It means it was classified as Sad(CLoser to One).
