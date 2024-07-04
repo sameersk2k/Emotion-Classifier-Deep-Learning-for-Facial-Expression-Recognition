@@ -113,6 +113,7 @@ This project implements an image classification model using TensorFlow, designed
     **Precision , Recall and Accuracy resulted in 1 which is 100%.**
   - Testing
     Testing the model on new images assesses its ability to make accurate predictions on unseen data, providing practical insights into real performance.
+
     <img width="665" alt="Screenshot 2023-11-25 at 11 56 27 PM" src="https://github.com/sameersk2k/Emotion-Classifier-Deep-Learning-for-Facial-Expression-Recognition/assets/115322069/dae7f98a-3c8e-4814-b68f-80fd2e380901">
 
     The output was:
